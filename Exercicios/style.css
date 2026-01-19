@@ -18,14 +18,13 @@ section.normal {
     padding: 20px;
 }
 
-p
-{
-margin-bottom: 10px;
-text-align: justify;
+p {
+    margin-bottom: 10px;
+    text-align: justify;
 }
 
 h1,
-h2{
+h2 {
     margin-bottom: 20px;
     text-align: left;
     line-height: 1.2em;
